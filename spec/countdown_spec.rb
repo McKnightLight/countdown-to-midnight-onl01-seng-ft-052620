@@ -21,5 +21,4 @@ describe 'LOOPS' do
       expect(runtime.real.to_i >= 5).to be true
     end
   end
-
 end
